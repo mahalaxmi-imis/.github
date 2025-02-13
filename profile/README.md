@@ -44,9 +44,9 @@ Fig.1 Functional Module of IMIS
 
 #### Building Survey Questionnaire: [Access the Building Survey Questionnaire.](https://github.com/mahalaxmi-imis/additional_resources/blob/master/Building%20Questionnaire.pdf)
   
-#### IMIS Logo - [Standard: The official IMIS logo in its standard format.](https://github.com/mahalaxmi-imis/additional_resources/blob/main/IMIS%20Logo%20-%20Standard.png)
+#### IMIS Logo - [Standard: The official IMIS logo in its standard format.](https://github.com/mahalaxmi-imis/additional_resources/blob/master/IMIS%20Logo%20-%20Standard.png)
   
-#### IMIS Logo - [Inverted: The IMIS logo in an inverted color scheme.](https://github.com/mahalaxmi-imis/additional_resources/blob/main/IMIS%20Logo%20-%20Inverted.png)
+#### IMIS Logo - [Inverted: The IMIS logo in an inverted color scheme.](https://github.com/mahalaxmi-imis/additional_resources/blob/master/IMIS%20Logo%20-%20Inverted.png)
 
 #### IMIS Full License Text - [CC BY-NC-SA 4.0](https://github.com/mahalaxmi-imis/.github/blob/main/LICENSE.md)
 
