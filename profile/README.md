@@ -52,6 +52,6 @@ Fig.1 Functional Module of IMIS
 
 #### IMIS Contributing Guideline - [View the Contributing Guideline](https://github.com/mahalaxmi-imis/.github/blob/main/CONTRIBUTING.md)
 
-#### IMIS Code of Conduct - [View the Code of Conduct](https://github.com/mahalaxmi-imis/.github/blob/main/CODE_OF_CONDUCT.md)
+#### IMIS Code of Conduct - [View the Code of Conduct](https://github.com/mahalaxmi-imis/.github/blob/master/CODE_OF_CONDUCT.md)
 
 #### Contact Us: For further information, reach out to us at [insol@innovativesolution.com.np](insol@innovativesolution.com.np).
