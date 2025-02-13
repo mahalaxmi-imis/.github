@@ -36,7 +36,7 @@ Fig.1 Functional Module of IMIS
 
 ### Additional Resources: [View Additional Resources.](https://github.com/mahalaxmi-imis/additional_resources)
 
-#### IMIS Brochure: [A concise visual overview of IMIS.](https://github.com/mahalaxmi-imis/additional_resources/blob/main/IMIS%20Brochure.pdf)
+#### IMIS Brochure: [A concise visual overview of IMIS.](https://github.com/mahalaxmi-imis/additional_resources/blob/master/IMIS%20Brochure.pdf)
   
 #### IMIS Poster: [A visual summary of IMIS.](https://github.com/mahalaxmi-imis/additional_resources/blob/main/IMIS%20Poster.pdf)
 
