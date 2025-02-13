@@ -22,7 +22,7 @@ Fig.1 Functional Module of IMIS
 
 # Quicklinks for IMIS
 
-### Open-Source Base IMIS: [Learn in detail about the Integrated Municipal Information System (IMIS).](https://github.com/base-imis/.github/blob/main/README.md)
+### Open-Source Base IMIS: [Learn in detail about the Integrated Municipal Information System (IMIS).](https://github.com/mahalaxmi-imis/.github/blob/master/README.md)
 
 ### Detailed GitHub Organization Structure: [Learn more about the Organization Structure.](https://github.com/base-imis/.github/blob/main/ORGANIZATION_STRUCTURE.MD)
  
