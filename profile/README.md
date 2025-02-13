@@ -48,7 +48,7 @@ Fig.1 Functional Module of IMIS
   
 #### IMIS Logo - [Inverted: The IMIS logo in an inverted color scheme.](https://github.com/mahalaxmi-imis/additional_resources/blob/master/IMIS%20Logo%20-%20Inverted.png)
 
-#### IMIS Full License Text - [CC BY-NC-SA 4.0](https://github.com/mahalaxmi-imis/.github/blob/main/LICENSE.md)
+#### IMIS Full License Text - [CC BY-NC-SA 4.0](https://github.com/mahalaxmi-imis/.github/blob/master/LICENSE.md)
 
 #### IMIS Contributing Guideline - [View the Contributing Guideline](https://github.com/mahalaxmi-imis/.github/blob/main/CONTRIBUTING.md)
 
