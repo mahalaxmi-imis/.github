@@ -50,7 +50,7 @@ Fig.1 Functional Module of IMIS
 
 #### IMIS Full License Text - [CC BY-NC-SA 4.0](https://github.com/mahalaxmi-imis/.github/blob/master/LICENSE.md)
 
-#### IMIS Contributing Guideline - [View the Contributing Guideline](https://github.com/mahalaxmi-imis/.github/blob/main/CONTRIBUTING.md)
+#### IMIS Contributing Guideline - [View the Contributing Guideline](https://github.com/mahalaxmi-imis/.github/blob/master/CONTRIBUTING.md)
 
 #### IMIS Code of Conduct - [View the Code of Conduct](https://github.com/mahalaxmi-imis/.github/blob/master/CODE_OF_CONDUCT.md)
 
