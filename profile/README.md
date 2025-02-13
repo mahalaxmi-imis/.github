@@ -42,7 +42,7 @@ Fig.1 Functional Module of IMIS
 
 #### Overview of the Readiness Assessment Framework: [Learn more about the Readiness Assessment Framework.](https://github.com/mahalaxmi-imis/additional_resources/blob/master/Resource%20Materials%20for%20Readiness%20Assessment.pdf)
 
-#### Building Survey Questionnaire: [Access the Building Survey Questionnaire.](https://github.com/mahalaxmi-imis/other_resources/blob/main/Building%20Questionnaire.pdf)
+#### Building Survey Questionnaire: [Access the Building Survey Questionnaire.](https://github.com/mahalaxmi-imis/additional_resources/blob/master/Building%20Questionnaire.pdf)
   
 #### IMIS Logo - [Standard: The official IMIS logo in its standard format.](https://github.com/mahalaxmi-imis/additional_resources/blob/main/IMIS%20Logo%20-%20Standard.png)
   
